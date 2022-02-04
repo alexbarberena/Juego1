@@ -18,7 +18,7 @@ function preload(){
   car3_Img=loadImage("images/car3.png");
   car4_Img=loadImage("images/car4.png");
 
-  track=loadImage("../images/track.jpg");
+  track=loadImage("../images/track.png");
 
   ground=loadImage("../images/ground.png");
 
